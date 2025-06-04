@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蛋白质结构展示</title>
+    <script type="module">
+        import * as molstar from './lib/molstar/dist/molstar.min.js'; 
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const viewerDiv = document.getElementById('molstar-viewer');
+
+            const viewer = new molstar.Viewer(viewerDiv, {
+                layoutIsExpanded: true,
+                layoutShowControls: true,
+                layoutShowSequence: true,
+                layoutShowLog: true,
+                viewportBackground: '#ffffff'
+            });
+
+            const url = 'https://files.rcsb.org/download/1ubq.pdb'; 
+
+            viewer.loadStructureFromUrl(url).then(() => {
+                viewer.zoomTo();
+                viewer.render();
+            }).catch(err => {
+                console.error('加载结构时出错:', err);
+            });
+        });
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+        }
+        #molstar-viewer {
+            width: 80%;
+            height: 80%;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div id="molstar-viewer"></div>
+</body>
+</html>
