@@ -366,77 +366,77 @@ const storedSequences = [
         type: "MlrB",
         name: "A0A141R8A3",
         species: "Sphingomonas sp. ACM-3962",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAIPMATPQVDSRVLDAVFADIKPDEPGCAYAVDLRGKVLFQGGFGLADLTTREPITPATRFELASTSKQFTAALILILAQERRLRLTASIRTYLPDLPKVYEPVSVADLLHHTSGIREYFDAFRARGEDESKSHSREEVLAFIKAQRGLDGPPGHRFSYVNTNYFLLAEIVERLIRKPFPDGARELLFIPAGMKETRATLDTTSLLAGDAHGYQVTKDGKFAEAVWAWQGYGDRGVRTTVGDLAVWHGASLAATTGGQALEVARLANGKLRSGRPVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVMFPDSGLGISVMCNRDDISPAERARKIALLVKPGAPDSAFDRAIDPAEMKRLGRIGDLRSAPDGYYRDPLYGQYLIVDHRGGEPIVSYNMRAEKVTRRQDGIYRARRGILLSYAVAQGGPKRVVQWTESGPISYEYVGIGAPEAKLFWPGQYHSDELGITVTLSRDTKGWSLDTPAGAVPLAAALEDDLVGPNAAFSLHAVGPQIFTFHTVNLNGIVFRRLR",
       },
       {
         type: "MlrB",
         name: "A0AAD1FZ10",
         species: "Sphingopyxis sp. B9",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAIPMATPHVEPKDLDAVFADIKPDQPGCAYAVNMRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILMLAQERRLKLAASIRTYLPELPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVMAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKPFPDVARERLFMPAGMKETRATLDTTRLIAGDARGYQIAKNGSFVAAAWTWQGYGDRGVRTTVGDLALWHGASLAATTGGKALEVARLVNGKLRSGRPVDYAGGLFVDNRQGERVVSHSGLVVGNRAMDVLYPDSGMGISVMCNRDDIAPAERARKIALLVKPGAPDPGFDRAIDPAEMKRLGQIGDLRAAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAIARGGRARVVQWTESGPILYNYVGTGAPGAKQFRPGRYRSDELGVTVTLSRDSNGWTLNTPAGAVPLVAALADDLVAPNAAFSLHATGPQSFTFHTVNLNRLMFRWLP",
       },
       {
         type: "MlrB",
         name: "A0A1W7MBK5",
         species: "Novosphingobium sp. MD-1",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAIPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILAQERQLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFKPAGMTETRATLDTTSLIAGDARGYQIDKNGSFVSAAWAWQGYGDRGVRTTVGDLALWHGASLAATTGGQALEVARLANGKLHSGRPVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPESGIGISVMCNRDDISPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVIQSGIKRVVQWTESGPIPYQYVGTGAPETKLFWPGQYRSDELGITVTLSRDQKGWLLDTPAGAVPLAAAMADDLVGPNAAFSLHAVGPEIFTFHTVNLNGIVFRRLR",
       },
       {
         type: "MlrB",
         name: "A0A7X8S5T1",
         species: "Novosphingobium sp. ERN07",
-        activeSites: [62, 65, 156, 158, 230, 292],
+        activeSites: [62, 65, 156, 158, 292],
         seq: "MATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILAQERQLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFKPAGMTETRATLDTTSLIAGDARGYQIDKNGSFVSAAWAWQGYGDRGVRTTVGDLALWHGASLAATTGGQALEVARLANGKLHSGRPVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPESGIGISVMCNRDDISPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVIQSGIKRVVQWTESGPIPYQYVGTGAPETKLFWPGQYRSDELGITVTLSRDQKGWLLDTPAGAVPLAAAMADDLVGPNAAFSLHAVGPQIFTFHTVNLNGIVFRRLR",
       },
       {
         type: "MlrB",
         name: "A0A7X8NVI4",
         species: "Novosphingobium sp. ERW19",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAIPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILAQERQLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFKPAGMTETRATLDTTSLIAGDARGYQIDKNGSFVSAAWAWQGYGDRGVRTTVGDLALWHGASLAATTGGQALEVARLANGKLHSGRPVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPESGIGISVMCNRDDISPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVIQSGIKRVVQWTESGPIPYQYVGTGAPETKLFWPGQYRSDELGITVTLSRDQKGWLLDTPAGAVPLAAAMADDLVGPNAAFSLHAVGPQIFTFHTVNLNGIVFRRLR",
       },
       {
         type: "MlrB",
         name: "A0A4V1G4S8",
         species: "Sphingopyxis sp. X20",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAIPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLTTREPITPATRFELASTSKQFTAVLILILAQERRLELTASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPNAARERLFIPAGMTETRATLDTTSLIAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTTVGDLALWHGASLAATTGGQALEVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPADRARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPEGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVTQSGIKRVVQWTESGPIPYQYVGTGAPETKLFWPGQYRSDELGITVTLSRNQRGWSLDTPAGAVPLEAALADDLVGPDAAFSLHAVGPQILTFHTVNLSGIEFRRLP",
       },
       {
         type: "MlrB",
         name: "D0FYG3",
         species: "Sphingopyxis sp. C-1",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTAAMPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITTATRFELASTSKQFTAALILILAQERRLKLAASIRTYLPDLPKVYDSVTVADLLHHTSGIREYFDAFRTRGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFIPAGMTETRATLDATSLIAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTTVGDLALWHGASLAATTGGEALKVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDRLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVAQSGIKRVVQWTESGPIPYQYVGIGAPETKLFWPGQYRSDELGITVTLSRDQKGWSLDTPAGAVPLAAALADDLVGPDAAFSLHAVGPQIFTFHTVNLSGIEFRRLP",
       },
       {
         type: "MlrB",
         name: "A0A1X9PWL1",
         species: "Sphingopyxis sp. YF1",
-        activeSites: [64, 67, 158, 160, 232, 294],
+        activeSites: [64, 67, 158, 160, 294],
         seq: "MPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILVQERRLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFIPAGMTETRATLDTTSLVAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTNVGDLALWHGASLAATTGGEALEVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVAQVGIERVVQWTESGPIPYDYVGTGALETKLFRPGQYRSDELGITVTLSRDLKGWSLDTPAGAVPLEAALADDLVGPDAAFSLHAVGPQIFTFHTVNLSGIEFRRLP",
       },
       {
         type: "MlrB",
         name: "M4NG93",
         species: "Sphingopyxis sp. USTB-05",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTVAMPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILVQERRLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFIPAGMTETRATLDTTSLVAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTNVGDLALWHGASLAATTGGEALEVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVAQVGIERVVQWTESGPIPYDYVGTGALETKLFRPGQYRSDELGITVTLSRDLKGWSLDTPAGAVPLEAALADDLVGPDAAFSLHAVGPQIFTFHTVNLSGIEFRRLP",
       },
       {
         type: "MlrB",
         name: "A0A1D8QSQ4",
         species: "Sphingopyxis sp. MB-E",
-        activeSites: [77, 80, 171, 173, 245, 307],
+        activeSites: [77, 80, 171, 173, 307],
         seq: "MTATKLFLALTVAMPMATSHVDPKELDAVFADIRPDQPGCAYAVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILVQERRLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFIPAGMTETRATLDTTSLVAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTNVGDLALWHGASLAATTGGEALEVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVAQVGIERVVQWTESGPIPYDYVGTGALETKLFRPGQYRSDELGITVTLSRDLKGWSLDTPAGAVPLEAALADDLVGPDAAFSLHAVGPQIFTFHTVNLSGIEF",
       },
       {
         type: "MlrB",
         name: "A0A3S9VMP2",
         species: "Sphingopyxis sp. m6",
-        activeSites: [35, 38, 129, 131, 203, 265],
+        activeSites: [35, 38, 129, 131, 265],
         seq: "AVDLRGKVLYQGGFGLADLATREPITPATRFELASTSKQFTAALILILVQERRLKLAASIRTYLPDLPKVYDPVTVADLLHHTSGIREYFDAFRARGDDESKPHSREEVLAFVKAQRGLDGPPGRRFSYVNTNYFLLAEIVERLTGKSFPDAARERLFIPAGMTETRATLDTTSLVAGDARGYQIDKNGSFVSAAWTWQGYGDRGVRTNVGDLALWHGASLAATTGGEALEVARLANGKLRSGRSVDYAGGLFVDDRQSERVVSHSGLVVGNRAMDVLYPDSGIGISVMCNRDDIAPAERARKIALLVKPGAPDPAFDRAIDPAEMKRLGKVGDLRSAPDGYYRDPLYGQYLIVAHRDGEPIVSYNMRAEKVTRRQDGIYRARRGVLLSYAVAQVGIERVVQWTESGPIPYDYVGTGALETKLFRPGQYRSDE",
       },
       {
@@ -1237,10 +1237,10 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
             descriptionContent = `
             <div style="text-align: left;">
             <p>
-                <strong>Acylation(A):</strong> <span style="color: blue; font-weight: bold;">${activeSiteMatches[5] || '__'}</span> abstracts the hydroxyl hydrogen from <span style="color: red; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, enabling the hydroxyl group of <span style="color: red; font-weight: bold;">${activeSiteMatches[0] || '__'}</span> to act as a nucleophile that attacks the carbonyl carbon of the peptide bond in microcystins (Ala-Leu in MC-LR or Ala-Arg in MC-RR), forming a tetrahedral intermediate.
+                <strong>Acylation(A):</strong> <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>-<span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span>-<span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span> form a nearly equilateral catalytic triangle that serves as the enzyme's proton-relay system. <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> deprotonates <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, activating its nucleophilic attack on the carbonyl to form a tetrahedral intermediate; the proton is then relayed to <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span>, which protonates the leaving group, collapsing the intermediate and releasing the first product.
             </p>
             <p>
-                <strong>Deacylation(B):</strong> A water molecule(H20) enters the reaction, where <span style="color: blue; font-weight: bold;">${activeSiteMatches[5] || '__'}</span> abstracts a proton, generating a hydroxyl ion that attacks the carbonyl carbon of the acyl-enzyme complex, forming a second tetrahedral intermediate, followed by proton transfer to <span style="color: red; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, releasing the tetrapeptide product.
+                <strong>Deacylation(B):</strong> A water molecule <span style="color: #db029a; font-weight: bold;">(H20)</span> enters the reaction,  where <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span> and <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> cooperatively abstract its proton, generating a hydroxide ion that attacks the acyl-enzyme carbonyl to form a second tetrahedral intermediate; the proton is then relayed back to <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, collapsing the intermediate, releasing the product, and restoring the enzyme to its resting state.
             </p>
             </div>`;
             break;
@@ -1454,117 +1454,37 @@ function generateMlrBSvg(activeSiteMatches) {
     let svgTemplate = `
      <svg class="chemical-structure-MlrB" width="250%" height="100%" viewBox="0 0 1200 700" >
         <g class="part1">
-         <text x="25" y="30" font-size="18" font-weight="bold" fill="black">A</text>
-         <rect x="20" y="10" width="500" height="340" stroke="black" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
- <g transform="rotate(10, 137.5, 147.5)">
-        <line x1="250" y1="180" x2="195" y2="175" stroke="green" stroke-width="2" stroke-dasharray="5,5"/>
-        <text x="173" y="176" font-size="18" font-weight="bold" fill="blue">N</text>
-        <line x1="175" y1="180" x2="132" y2="215" stroke="black" stroke-width="2"/>
-        <line x1="170" y1="177" x2="135" y2="205" stroke="black" stroke-width="2"/>
-        <line x1="132" y1="215" x2="92" y2="181" stroke="black" stroke-width="2"/>
-        <text x="65" y="178" font-size="18" font-weight="bold" fill="blue">HN</text>
-        <line x1="180" y1="160" x2="165" y2="120" stroke="black" stroke-width="2"/>
-        <line x1="165" y1="120" x2="105" y2="120" stroke="black" stroke-width="2"/>
-        <line x1="105" y1="120" x2="88" y2="160" stroke="black" stroke-width="2"/>
-        <line x1="160" y1="125" x2="110" y2="125" stroke="black" stroke-width="2"/>
-        <line x1="105" y1="120" x2="68" y2="70" stroke="black" stroke-width="2"/>
-        </g>
- <g transform="rotate(-60, 68, 52.5)">
-        <line x1="68" y1="70" x2="72" y2="66" stroke="black" stroke-width="2"/>
-        <line x1="72" y1="66" x2="76" y2="72" stroke="black" stroke-width="2"/>
-        
-        <line x1="76" y1="72" x2="82" y2="64" stroke="black" stroke-width="2"/>
-        <line x1="82" y1="64" x2="88" y2="74" stroke="black" stroke-width="2"/>
-        
-        <line x1="88" y1="74" x2="94" y2="66" stroke="black" stroke-width="2"/>
-        <line x1="94" y1="66" x2="100" y2="78" stroke="black" stroke-width="2"/>
+         <text x="5" y="15" font-size="18" font-weight="bold" fill="black">A</text>
+         <rect x="0" y="0" width="500" height="340" stroke="black" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+<!-- 催化三角：Ser62–Lys65–Tyr153 -->
+<polygon
+    points="310,80 150,205 383,215"
+    fill="none"
+    stroke="lightgrey"
+    stroke-opacity="1"
+    stroke-dasharray="4,3"
+    stroke-width="4"/> 
+<g transform="translate(100 0)">
+       <!-- LYS -->
+<text x="290" y="300" font-size="18" font-weight="bold" fill="#db029a" class="K">${activeSiteMatches[1] || '__'}</text>
+       <!-- 两个氢 -->
+<text x="250" y="190" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="290" y="190" font-size="18" font-weight="bold" fill="blue">H</text>
 
-        <line x1="100" y1="78" x2="106" y2="70" stroke="black" stroke-width="2"/>
-        <line x1="106" y1="70" x2="112" y2="82" stroke="black" stroke-width="2"/>
-        
-        <line x1="112" y1="82" x2="118" y2="74" stroke="black" stroke-width="2"/>
-    </g>
-    <text x="248" y="205" font-size="18" font-weight="bold" fill="blue">H</text>
-    <line x1="265" y1="197" x2="310" y2="197" stroke="black" stroke-width="2"/>
-    <text x="313" y="205" font-size="18" font-weight="bold" fill="red">O</text>
-    <line x1="320" y1="187" x2="325" y2="140" stroke="black" stroke-width="2"/>
-    <g transform="rotate(-25, 325, 140)">
-    <line x1="325" y1="140" x2="329" y2="136" stroke="black" stroke-width="2"/>
-    <line x1="329" y1="136" x2="333" y2="142" stroke="black" stroke-width="2"/>
-    
-    <line x1="333" y1="142" x2="339" y2="134" stroke="black" stroke-width="2"/>
-    <line x1="339" y1="134" x2="345" y2="144" stroke="black" stroke-width="2"/>
-    
-    <line x1="345" y1="144" x2="351" y2="136" stroke="black" stroke-width="2"/>
-    <line x1="351" y1="136" x2="357" y2="148" stroke="black" stroke-width="2"/>
-    
-    <line x1="357" y1="148" x2="363" y2="140" stroke="black" stroke-width="2"/>
-    <line x1="363" y1="140" x2="369" y2="152" stroke="black" stroke-width="2"/>
-    
-    <line x1="369" y1="152" x2="375" y2="144" stroke="black" stroke-width="2"/>
-</g>
-<text x="120" y="30" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[5] || '__'}</text>
-<text x="380" y="132" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[0] || '__'}</text>
-<text x="420" y="92" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[1] || '__'}</text>
-<text x="470" y="130" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[4] || '__'}</text>
-<text x="450" y="165" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[3] || '__'}</text>
-<text x="370" y="170" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[2] || '__'}</text>
-<text x="163" y="250" font-size="18" font-weight="bold" fill="black"> R1</text>
-<text x="100" y="250" font-size="18" font-weight="bold" fill="#FFCC00">(Adda)</text>
-<text x="167" y="320" font-size="18" font-weight="bold" fill="blue">H</text>
-<text x="210" y="287" font-size="18" font-weight="bold" fill="blue">H</text>
-<line x1="185" y1="248" x2="210" y2="270" stroke="black" stroke-width="2"/>
-<line x1="180" y1="310" x2="208" y2="290" stroke="black" stroke-width="2"/>
-<text x="320" y="325" font-size="18" font-weight="bold" fill="red">O</text>
-<text x="330" y="250" font-size="18" font-weight="bold" fill="black">R2</text>
-<line x1="295" y1="272" x2="330" y2="247" stroke="black" stroke-width="2"/>
-<line x1="292" y1="290" x2="317" y2="315" stroke="black" stroke-width="2"/>
-<line x1="298" y1="285" x2="323" y2="310" stroke="black" stroke-width="2"/>
-<line x1="225" y1="280" x2="282" y2="280" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
-<text x="285" y="287" font-size="18" font-weight="bold" fill="red">C</text>
- <path d="M 315 210 Q 260 230, 280 260" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead2)" />
-<defs>
-    <marker id="arrowhead2" markerWidth="6" markerHeight="4" refX="0" refY="2" orient="auto">
-        <polygon points="0 0, 6 2, 0 4" fill="black" stroke-width="1"/>
-    </marker>
-</defs>
-</g>
+<!-- N 原子 -->
+<text x="270" y="215" font-size="18" font-weight="bold" fill="blue">N</text>
 
-<g class="part2" transform="translate(-600, 350)">
-<text x="625" y="30" font-size="18" font-weight="bold" fill="black">B</text>
- <rect x="620" y="8" width="500" height="340" stroke="black" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
-<g transform="translate(-70, 0)">
-<g transform="rotate(10, 817.5, 147.5)">
-    <line x1="875" y1="230" x2="863" y2="180" stroke="green" stroke-width="2" stroke-dasharray="5,5"/>
-    <text x="853" y="176" font-size="18" font-weight="bold" fill="blue">N</text>
-    <line x1="855" y1="180" x2="812" y2="215" stroke="black" stroke-width="2"/>
-    <line x1="850" y1="177" x2="815" y2="205" stroke="black" stroke-width="2"/>
-    <line x1="812" y1="215" x2="772" y2="181" stroke="black" stroke-width="2"/>
-    <text x="745" y="178" font-size="18" font-weight="bold" fill="blue">HN</text>
-    <line x1="860" y1="160" x2="845" y2="120" stroke="black" stroke-width="2"/>
-    <line x1="845" y1="120" x2="785" y2="120" stroke="black" stroke-width="2"/>
-    <line x1="785" y1="120" x2="768" y2="160" stroke="black" stroke-width="2"/>
-    <line x1="840" y1="125" x2="790" y2="125" stroke="black" stroke-width="2"/>
-    <line x1="785" y1="120" x2="748" y2="70" stroke="black" stroke-width="2"/>
-</g>
+<!-- 把 H 与 N 连起来 -->
+<line x1="257" y1="190" x2="270" y2="205" stroke="black" stroke-width="2"/>
+<line x1="298" y1="190" x2="285" y2="205" stroke="black" stroke-width="2"/>
 
-<g transform="rotate(-60, 748, 52.5)">
-    <line x1="748" y1="70" x2="752" y2="66" stroke="black" stroke-width="2"/>
-    <line x1="752" y1="66" x2="756" y2="72" stroke="black" stroke-width="2"/>
-    <line x1="756" y1="72" x2="762" y2="64" stroke="black" stroke-width="2"/>
-    <line x1="762" y1="64" x2="768" y2="74" stroke="black" stroke-width="2"/>
-    <line x1="768" y1="74" x2="774" y2="66" stroke="black" stroke-width="2"/>
-    <line x1="774" y1="66" x2="780" y2="78" stroke="black" stroke-width="2"/>
-    <line x1="780" y1="78" x2="786" y2="70" stroke="black" stroke-width="2"/>
-    <line x1="786" y1="70" x2="792" y2="82" stroke="black" stroke-width="2"/>
-    <line x1="792" y1="82" x2="798" y2="74" stroke="black" stroke-width="2"/>
-</g>
 
-<text x="853" y="255" font-size="18" font-weight="bold" fill="black">H</text>
-<text x="993" y="205" font-size="18" font-weight="bold" fill="red">O</text>
-<line x1="1000" y1="187" x2="1005" y2="140" stroke="black" stroke-width="2"/>
-<line x1="1000" y1="210" x2="999" y2="272" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
-<g transform="rotate(-25, 1005, 140)">
+  <!-- Lys65 侧链骨架 -->
+  <polyline points="275,214 275,234 255,254 275,274 255,294 275,314"
+            fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- 与主链相连的波浪线 -->
+   <g transform="translate(275 314) rotate(5)  translate(-1005 -140)">
     <line x1="1005" y1="140" x2="1009" y2="136" stroke="black" stroke-width="2"/>
     <line x1="1009" y1="136" x2="1013" y2="142" stroke="black" stroke-width="2"/>
     <line x1="1013" y1="142" x2="1019" y2="134" stroke="black" stroke-width="2"/>
@@ -1574,34 +1494,245 @@ function generateMlrBSvg(activeSiteMatches) {
     <line x1="1037" y1="148" x2="1043" y2="140" stroke="black" stroke-width="2"/>
     <line x1="1043" y1="140" x2="1049" y2="152" stroke="black" stroke-width="2"/>
     <line x1="1049" y1="152" x2="1055" y2="144" stroke="black" stroke-width="2"/>
+  </g>
+  <!-- LYS -->
+  </g>
+  <g transform="translate(40 -25)">
+<!-- TYR -->
+<text x="310" y="130" font-size="18" font-weight="bold" fill="#db029a" class="Y">${activeSiteMatches[2] || '__'}</text>
+<text x="220" y="135" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="260" y="115" font-size="18" font-weight="bold" fill="red">O</text>
+  <line x1="235" y1="128" x2="258" y2="113" stroke="black" stroke-width="2"/>
+  <line x1="275" y1="105" x2="298" y2="93" stroke="black" stroke-width="2"/>
+ 
+  <!-- 苯环 -->
+ <g transform="translate(24,-20) rotate(80 298 93)">
+  <polygon
+    points="
+      328,93
+      313.5,118.96
+      283.5,118.96
+      268,93
+      283.5,67.04
+      313.5,67.04
+    "
+    stroke="black"
+    stroke-width="2"
+    fill="none"
+  />
+  <line x1="320" y1="93" x2="308" y2="73" stroke="black" stroke-width="2"/>
+  <line x1="288" y1="73" x2="275" y2="93" stroke="black" stroke-width="2"/>
+  <line x1="285" y1="113" x2="310" y2="113" stroke="black" stroke-width="2"/>
 </g>
-<text x="800" y="30" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[5] || '__'}</text>
-<text x="1060" y="132" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[0] || '__'}</text>
-<text x="1100" y="92" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[1] || '__'}</text>
-<text x="1150" y="130" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[4] || '__'}</text>
-<text x="1130" y="165" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[3] || '__'}</text>
-<text x="1050" y="170" font-size="18" font-weight="bold" fill="#db029a">${activeSiteMatches[2] || '__'}</text>
-<text x="890" y="340" font-size="18" font-weight="bold" fill="black">H</text>
-<text x="900" y="290" font-size="18" font-weight="bold" fill="red">O</text>
-<line x1="870" y1="255" x2="903" y2="275" stroke="black" stroke-width="2"/>
-<line x1="897" y1="325" x2="906" y2="292" stroke="black" stroke-width="2"/>
-<g transform="translate(30, 0)">
-<text x="1005" y="332" font-size="18" font-weight="bold" fill="red">O</text>
-<text x="1010" y="250" font-size="18" font-weight="bold" fill="black">R2</text>
-<text x="964" y="288" font-size="18" font-weight="bold" fill="red">C</text>
-<line x1="976" y1="275" x2="1010" y2="250" stroke="black" stroke-width="2"/>
-<line x1="970" y1="290" x2="1000" y2="320" stroke="black" stroke-width="2"/>
-<line x1="980" y1="288" x2="1008" y2="315" stroke="black" stroke-width="2"/>
-
+<line x1="345" y1="53" x2="365" y2="33" stroke="black" stroke-width="2"/>
+<line x1="365" y1="33" x2="385" y2="33" stroke="black" stroke-width="2"/>
+   <g transform="rotate(85 385 33)">
+<path d="M385 33 
+           l5 -6 l5 6 
+           l5 -6 l5 6 
+           l5 -6 l5 6
+           l5 -6 l5 6
+           " 
+        stroke="black" stroke-width="2" fill="none"/>
 </g>
- <g transform="translate(680, 0)">
-  <path d="M 240 280 Q 280 280, 297 280" stroke="black" stroke-width="2" fill="none" marker-end="url(#arrowhead6)" />
-    <defs>
-    <marker id="arrowhead6" markerWidth="7.5" markerHeight="5.25" refX="0" refY="2.625" orient="auto">
-        <polygon points="0 0, 7.5 2.625, 0 5.25" fill="black" stroke-width="1"/>
-    </marker>
+<!-- TYR -->
+  </g>
+   <g transform="translate(40 20)">
+<!-- SER -->
+  <text x="60" y="280" font-size="18" font-weight="bold" fill="#db029a" class="S">${activeSiteMatches[0] || '__'}</text>
+<!-- 已有的 H 与 O -->
+<text x="150" y="170" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="110" y="190" font-size="18" font-weight="bold" fill="red">O</text>
+<line x1="150" y1="166" x2="125" y2="180" stroke="black" stroke-width="2"/>
+<line x1="115" y1="193" x2="115" y2="230" stroke="black" stroke-width="2"/>
+<line x1="115" y1="230" x2="80" y2="250" stroke="black" stroke-width="2"/>
+<path d="M80 250
+         l4 -6 l4 6  l4 -6 l4 6  l4 -6 l4 6 l4 -6 l4 6 l4 -6"
+      stroke="black" stroke-width="2" fill="none"
+      transform="rotate(-140 80 250)"/>
+  <!-- SER -->
+   </g>
+  <!-- MC-LR -->
+   <g transform="rotate(-20 160 140)">
+<text x="90" y="45" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="27" y="83" font-size="14" font-weight="bold" fill="#FFCC00">(Adda)</text>
+  <text x="75" y="85" font-size="18" font-weight="bold" fill="black">R1</text>
+  <text x="130" y="65" font-size="18" font-weight="bold" fill="blue">N</text>
+  <text x="190" y="65" font-size="18" font-weight="bold" fill="black">C</text>
+  <text x="230" y="90" font-size="18" font-weight="bold" fill="red">O</text>
+  <text x="230" y="40" font-size="18" font-weight="bold" fill="black">R2</text>
+  <line x1="105" y1="40" x2="130" y2="55" stroke="black" stroke-width="2"/>
+  <line x1="98" y1="78" x2="130" y2="62" stroke="black" stroke-width="2"/>
+  <line x1="148" y1="60" x2="187" y2="60" stroke="black" stroke-dasharray="4,3" stroke-width="2"/>
+  <line x1="203" y1="55" x2="230" y2="40" stroke="black" stroke-width="2"/>
+  <line x1="203" y1="62" x2="230" y2="78" stroke="black" stroke-width="2"/>
+  <line x1="200" y1="68" x2="228" y2="84" stroke="black" stroke-width="2"/>
+</g>
+<!-- MC-LR -->
+<line x1="205" y1="185" x2="365" y2="206" stroke="green" stroke-dasharray="4,3" stroke-width="2"/>
+<defs>
+  <marker id="arrowhead" markerWidth="6" markerHeight="6"
+          refX="6" refY="3" orient="auto">
+    <polygon points="0 0, 6 3, 0 6" fill="black"/>
+  </marker>
 </defs>
+
+<!-- 从 O (≈198,185) 出发，向下凹再朝上指向 C (≈185,70) -->
+<path d="M150 195 Q90 120 167 60"
+      stroke="black" stroke-width="2" fill="none"
+      marker-end="url(#arrowhead)"/>
+<!-- HIS -->
+<text x="60" y="200" font-size="18" font-weight="bold" fill="#db029a" class="H3">${activeSiteMatches[4] || '__'}</text>
+<!-- HIS -->
+<!-- ASN --> 
+<text x="430" y="180" font-size="18" font-weight="bold" fill="#db029a" class="N1">${activeSiteMatches[3] || '__'}</text>
+<!-- ASN -->  
+</g>
+
+<g class="part2" transform="translate(-600, 350)">
+<text x="605" y="20" font-size="18" font-weight="bold" fill="black">B</text>
+ <rect x="600" y="0" width="500" height="340" stroke="black" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+<g transform="translate(600, 0)">
+<polygon
+    points="310,80 150,205 383,215"
+    fill="none"
+    stroke="lightgrey"
+    stroke-opacity="1"
+    stroke-dasharray="4,3"
+    stroke-width="4"/> 
+<g transform="translate(100 0)">
+       <!-- LYS -->
+<text x="290" y="300" font-size="18" font-weight="bold" fill="#db029a" class="K">${activeSiteMatches[1] || '__'}</text>
+       <!-- 两个氢 -->
+<text x="250" y="190" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="290" y="190" font-size="18" font-weight="bold" fill="blue">H</text>
+
+<!-- N 原子 -->
+<text x="270" y="215" font-size="18" font-weight="bold" fill="blue">N</text>
+
+<!-- 把 H 与 N 连起来 -->
+<line x1="257" y1="190" x2="270" y2="205" stroke="black" stroke-width="2"/>
+<line x1="298" y1="190" x2="285" y2="205" stroke="black" stroke-width="2"/>
+
+
+  <!-- Lys65 侧链骨架 -->
+  <polyline points="275,214 275,234 255,254 275,274 255,294 275,314"
+            fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- 与主链相连的波浪线 -->
+   <g transform="translate(275 314) rotate(5)  translate(-1005 -140)">
+    <line x1="1005" y1="140" x2="1009" y2="136" stroke="black" stroke-width="2"/>
+    <line x1="1009" y1="136" x2="1013" y2="142" stroke="black" stroke-width="2"/>
+    <line x1="1013" y1="142" x2="1019" y2="134" stroke="black" stroke-width="2"/>
+    <line x1="1019" y1="134" x2="1025" y2="144" stroke="black" stroke-width="2"/>
+    <line x1="1025" y1="144" x2="1031" y2="136" stroke="black" stroke-width="2"/>
+    <line x1="1031" y1="136" x2="1037" y2="148" stroke="black" stroke-width="2"/>
+    <line x1="1037" y1="148" x2="1043" y2="140" stroke="black" stroke-width="2"/>
+    <line x1="1043" y1="140" x2="1049" y2="152" stroke="black" stroke-width="2"/>
+    <line x1="1049" y1="152" x2="1055" y2="144" stroke="black" stroke-width="2"/>
+  </g>
+  <!-- LYS -->
+  </g>
+  <g transform="translate(40 -25)">
+<!-- TYR -->
+<text x="310" y="130" font-size="18" font-weight="bold" fill="#db029a" class="Y">${activeSiteMatches[2] || '__'}</text>
+<text x="220" y="135" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="260" y="115" font-size="18" font-weight="bold" fill="red">O</text>
+  <line x1="235" y1="128" x2="258" y2="113" stroke="black" stroke-width="2"/>
+  <line x1="275" y1="105" x2="298" y2="93" stroke="black" stroke-width="2"/>
+ 
+  <!-- 苯环 -->
+ <g transform="translate(24,-20) rotate(80 298 93)">
+  <polygon
+    points="
+      328,93
+      313.5,118.96
+      283.5,118.96
+      268,93
+      283.5,67.04
+      313.5,67.04
+    "
+    stroke="black"
+    stroke-width="2"
+    fill="none"
+  />
+  <line x1="320" y1="93" x2="308" y2="73" stroke="black" stroke-width="2"/>
+  <line x1="288" y1="73" x2="275" y2="93" stroke="black" stroke-width="2"/>
+  <line x1="285" y1="113" x2="310" y2="113" stroke="black" stroke-width="2"/>
+</g>
+<line x1="345" y1="53" x2="365" y2="33" stroke="black" stroke-width="2"/>
+<line x1="365" y1="33" x2="385" y2="33" stroke="black" stroke-width="2"/>
+   <g transform="rotate(85 385 33)">
+<path d="M385 33 
+           l5 -6 l5 6 
+           l5 -6 l5 6 
+           l5 -6 l5 6
+           l5 -6 l5 6
+           " 
+        stroke="black" stroke-width="2" fill="none"/>
+</g>
+<!-- TYR -->
+  </g>
+   <g transform="translate(40 20)">
+<!-- SER -->
+  <text x="60" y="280" font-size="18" font-weight="bold" fill="#db029a" class="S">${activeSiteMatches[0] || '__'}</text>
+<!-- 已有的 H 与 O -->
+<text x="110" y="190" font-size="18" font-weight="bold" fill="red">O</text>
+<line x1="115" y1="193" x2="115" y2="230" stroke="black" stroke-width="2"/>
+<line x1="115" y1="230" x2="80" y2="250" stroke="black" stroke-width="2"/>
+<path d="M80 250
+         l4 -6 l4 6  l4 -6 l4 6  l4 -6 l4 6 l4 -6 l4 6 l4 -6"
+      stroke="black" stroke-width="2" fill="none"
+      transform="rotate(-140 80 250)"/>
+  <!-- SER -->
+   </g>
+  <!-- MC-LR -->
+<text x="150" y="148" font-size="18" font-weight="bold" fill="black"
+      ">C</text>
+<text x="175" y="105" font-size="18" font-weight="bold" fill="red"
+      ">O</text>
+<text x="125" y="105" font-size="18" font-weight="bold" fill="black"
+      ">R2</text>
+<line x1="153" y1="135" x2="138" y2="108"
+      stroke="black" stroke-width="2"/>
+<line x1="160" y1="135" x2="176" y2="108"
+      stroke="black" stroke-width="2"/>
+<line x1="162" y1="138" x2="180" y2="109"
+      stroke="black" stroke-width="2"/>
+<line x1="157" y1="190" x2="157" y2="151"
+      stroke="black" stroke-dasharray="4,3" stroke-width="2"/>
+<!-- MC-LR -->
+<line x1="280" y1="25" x2="300" y2="75" stroke="green" stroke-dasharray="4,3" stroke-width="2"/>
+<line x1="267" y1="112" x2="370" y2="210" stroke="green" stroke-dasharray="4,3" stroke-width="2"/>
+<defs>
+  <marker id="arrowhead" markerWidth="6" markerHeight="6"
+          refX="6" refY="3" orient="auto">
+    <polygon points="0 0, 6 3, 0 6" fill="black"/>
+  </marker>
+</defs>
+
+<!-- 从 O (≈198,185) 出发，向下凹再朝上指向 C (≈185,70) -->
+<path d="M222 55 Q220 150 165 140"
+      stroke="black" stroke-width="2" fill="none"
+      marker-end="url(#arrowhead)"/>
+      <!-- HIS -->
+<text x="60" y="200" font-size="18" font-weight="bold" fill="#db029a" class="H3">${activeSiteMatches[4] || '__'}</text>
+<!-- HIS -->
+<!-- ASN --> 
+<text x="430" y="180" font-size="18" font-weight="bold" fill="#db029a" class="N1">${activeSiteMatches[3] || '__'}</text>
+<!-- ASN -->  
+       </g>
+ <!--water-->
+
+ <g transform="translate(-85 -240)">
+<text x="855" y="260" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="955" y="260" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="900" y="290" font-size="18" font-weight="bold" fill="red">O</text>
+<line x1="870" y1="260" x2="900" y2="280" stroke="black" stroke-width="2"/>
+<line x1="915" y1="280" x2="952" y2="260" stroke="black" stroke-width="2"/>     
  </g>
+
+<!--water-->
  </g>`;
     return svgTemplate;
 }
