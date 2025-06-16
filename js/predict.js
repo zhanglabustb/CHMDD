@@ -1216,7 +1216,7 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
                 </li>
             </ol>
             <p>
-                <a href='/component/sequnence_MlrC.html'>Click</a> for more MlrC information.
+                <a href='./component/sequnence_MlrC.html'>Click</a> for more MlrC information.
             </p>
         </div>`;
             break;
@@ -1235,7 +1235,7 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
                 </li>
             </ol>
             <p>
-                <a href='/component/sequnence_MlrA.html'>Click</a> for more MlrA information.
+                <a href='./component/sequnence_MlrA.html'>Click</a> for more MlrA information.
             </p>
         </div>`;
             break;
@@ -1249,14 +1249,14 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
                 <strong>Deacylation(B):</strong> A water molecule <span style="color: #db029a; font-weight: bold;">(H20)</span> enters the reaction,  where <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span> and <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> cooperatively abstract its proton, generating a hydroxide ion that attacks the acyl-enzyme carbonyl to form a second tetrahedral intermediate; the proton is then relayed back to <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, collapsing the intermediate, releasing the product, and restoring the enzyme to its resting state.
             </p>
             <p>
-                <a href='/component/sequnence_MlrB.html'>Click</a> for more MlrB information.
+                <a href='./component/sequnence_MlrB.html'>Click</a> for more MlrB information.
             </p>
             </div>`;
             break;
         case 'MlrD':
             descriptionContent =`<div style="text-align: left;">
             <p>
-                <a href='/component/sequnence_MlrB.html'>Click</a> for more MlrB information.
+                <a href='./component/sequnence_MlrB.html'>Click</a> for more MlrB information.
             </p>  
             </div>`;
             break;
