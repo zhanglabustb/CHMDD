@@ -1215,6 +1215,9 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
                     <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> serves as an acid catalyst, donating a proton to the leaving amine group. This proton transfer aids in the breakdown of the tetrahedral intermediate, ultimately completing the hydrolysis of the peptide bond.
                 </li>
             </ol>
+            <p>
+                <a href='/component/sequnence_MlrC.html'>Click</a> for more MlrC information.
+            </p>
         </div>`;
             break;
         case 'MlrA':
@@ -1231,6 +1234,9 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
                     <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> and <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span> may further accelerate the reaction rate by influencing the pKa of <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>.
                 </li>
             </ol>
+            <p>
+                <a href='/component/sequnence_MlrA.html'>Click</a> for more MlrA information.
+            </p>
         </div>`;
             break;
         case 'MlrB':
@@ -1242,9 +1248,17 @@ function displayCatalyticMechanism(type, activeSiteMatches) {
             <p>
                 <strong>Deacylation(B):</strong> A water molecule <span style="color: #db029a; font-weight: bold;">(H20)</span> enters the reaction,  where <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[2] || '__'}</span> and <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[1] || '__'}</span> cooperatively abstract its proton, generating a hydroxide ion that attacks the acyl-enzyme carbonyl to form a second tetrahedral intermediate; the proton is then relayed back to <span style="color: #db029a; font-weight: bold;">${activeSiteMatches[0] || '__'}</span>, collapsing the intermediate, releasing the product, and restoring the enzyme to its resting state.
             </p>
+            <p>
+                <a href='/component/sequnence_MlrB.html'>Click</a> for more MlrB information.
+            </p>
             </div>`;
             break;
         case 'MlrD':
+            descriptionContent =`<div style="text-align: left;">
+            <p>
+                <a href='/component/sequnence_MlrB.html'>Click</a> for more MlrB information.
+            </p>  
+            </div>`;
             break;
     }
 
