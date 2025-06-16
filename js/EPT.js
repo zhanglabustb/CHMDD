@@ -230,10 +230,10 @@ $(document).ready(function () {
    </g>
   <!-- MC-LR -->
    <g transform="rotate(-20 160 140)">
-<text x="80" y="40" font-size="18" font-weight="bold" fill="black">R1</text>
-<text x="32" y="40" font-size="14" font-weight="bold" fill="#FFCC00">(Adda)</text>
-  <text x="80" y="90" font-size="18" font-weight="bold" fill="blue">H</text>
-  <text x="130" y="65" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="90" y="45" font-size="18" font-weight="bold" fill="blue">H</text>
+<text x="27" y="83" font-size="14" font-weight="bold" fill="#FFCC00">(Adda)</text>
+  <text x="75" y="85" font-size="18" font-weight="bold" fill="black">R1</text>
+  <text x="130" y="65" font-size="18" font-weight="bold" fill="blue">N</text>
   <text x="190" y="65" font-size="18" font-weight="bold" fill="black">C</text>
   <text x="230" y="90" font-size="18" font-weight="bold" fill="red">O</text>
   <text x="230" y="40" font-size="18" font-weight="bold" fill="black">R2</text>
@@ -265,11 +265,12 @@ $(document).ready(function () {
 <!-- ASN -->   
 <text x="10" y="370" font-size="16" fill="black" font-weight="bold">
     <tspan x="10" dy="0" font-size="19">Acylation:</tspan>
-    <tspan x="10" dy="30"><tspan fill="#db029a" class="H3"></tspan> abstracts the hydroxyl hydrogen from <tspan fill="#db029a" class="S"></tspan>,</tspan>
-    <tspan x="10" dy="20">enabling the hydroxyl group of <tspan fill="#db029a" class="S"></tspan> to act as a nucleophile</tspan>
-    <tspan x="10" dy="20">that attacks the carbonyl carbon of the peptide bond in microcystins</tspan>
-    <tspan x="10" dy="20">(Ala-Leu in MC-LR or Ala-Arg in MC-RR),</tspan>
-    <tspan x="10" dy="20">forming a tetrahedral intermediate.</tspan>
+    <tspan x="10" dy="30"><tspan fill="#db029a" class="S"></tspan>-<tspan fill="#db029a" class="K"></tspan>-<tspan fill="#db029a" class="Y"></tspan> form a nearly equilateral catalytic triangle that serves as the</tspan>
+    <tspan x="10" dy="20"> enzyme's proton-relay system. </tspan>
+    <tspan x="10" dy="20"><tspan fill="#db029a" class="K"></tspan> deprotonates <tspan fill="#db029a" class="S"></tspan>, activating its nucleophilic attack on the carbonyl</tspan>
+    <tspan x="10" dy="20">to form a tetrahedral intermediate; the proton is then relayed to <tspan fill="#db029a" class="Y"></tspan>, </tspan>
+    <tspan x="10" dy="20">which protonates the leaving group, collapsing the intermediate and </tspan>
+    <tspan x="10" dy="20">releasing the first product.</tspan>
 </text>
 
 
@@ -388,6 +389,7 @@ $(document).ready(function () {
       stroke="black" stroke-dasharray="4,3" stroke-width="2"/>
 <!-- MC-LR -->
 <line x1="280" y1="25" x2="300" y2="75" stroke="green" stroke-dasharray="4,3" stroke-width="2"/>
+<line x1="267" y1="112" x2="370" y2="210" stroke="green" stroke-dasharray="4,3" stroke-width="2"/>
 <defs>
   <marker id="arrowhead" markerWidth="6" markerHeight="6"
           refX="6" refY="3" orient="auto">
@@ -420,13 +422,13 @@ $(document).ready(function () {
 
 <text x="620" y="370" font-size="16" fill="black" font-weight="bold">
     <tspan x="620" dy="0" font-size="19">Deacylation:</tspan>
-    <tspan x="620" dy="30">A water molecule(<tspan fill="#db029a" class="">H<tspan font-size="12" >2</tspan>0</tspan>) enters the reaction, where <tspan fill="#db029a" class="H3"></tspan> abstracts a</tspan>
-    <tspan x="620" dy="20">proton, generating a hydroxyl ion that attacks the carbonyl carbon of</tspan>
-    <tspan x="620" dy="20">the acyl-enzyme complex, forming a second tetrahedral intermediate,</tspan>
-    <tspan x="620" dy="20">followed by proton transfer to <tspan fill="#db029a" class="S"></tspan>, releasing the tetrapeptide product.</tspan>
+    <tspan x="620" dy="30">A water molecule(<tspan fill="#db029a" class="">H<tspan font-size="12" >2</tspan>0</tspan>) enters the reaction,  where <tspan fill="#db029a" class="Y"></tspan> and <tspan fill="#db029a" class="K"></tspan> </tspan>
+    <tspan x="620" dy="20">cooperatively abstract its proton, generating a hydroxide ion that</tspan>
+    <tspan x="620" dy="20">attacks the acyl-enzyme carbonyl to form a second tetrahedral</tspan>
+    <tspan x="620" dy="20">intermediate; the proton is then relayed back to <tspan fill="#db029a" class="S"></tspan>, collapsing</tspan>
+    <tspan x="620" dy="20">the intermediate, releasing the product, and restoring</tspan>
+    <tspan x="620" dy="20">the enzyme to its resting state.</tspan>
 </text>
-<text x="10" y="520" font-size="18" font-weight="bold" fill="black">For a comprehensive description of the catalytic mechanism, see</text>
-<a href="https://doi.org/10.3389/fmicb.2024.1389235" target="_blank"><text x="585" y="520" font-size="18" font-weight="bold" fill="blue">[Teng2024]</text></a>
 </svg>`;
 
 
